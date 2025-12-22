@@ -50,13 +50,3 @@ Thumbs.db
 
 # Legacy frontend (exclude for now)
 frontend_legacy/
-
-# Scripts and setup files (can be added later)
-setup.sh
-backend/scripts/
-
-# Advanced features (exclude for initial commit)
-backend/mailer.js
-
-# Random files
-image.png
