@@ -3,3 +3,6 @@ node_modules/
 uploads/
 *.log
 
+
+!scripts/uploads/
+!scripts/uploads/**
