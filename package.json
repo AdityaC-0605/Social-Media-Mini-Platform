@@ -1,0 +1,24 @@
+{
+  "name": "social-media-platform",
+  "version": "1.0.0",
+  "description": "Full-stack social media platform",
+  "scripts": {
+    "install-backend": "cd backend && npm install",
+    "install-frontend": "cd frontend_legacy && npm install",
+    "install-all": "npm run install-backend && npm run install-frontend",
+    "start-backend": "cd backend && npm start",
+    "start-frontend": "cd frontend_legacy && npm run dev",
+    "dev-backend": "cd backend && npm run dev",
+    "dev-frontend": "cd frontend_legacy && npm run dev"
+  },
+  "keywords": [
+    "social-media",
+    "react",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
